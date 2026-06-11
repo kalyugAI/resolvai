@@ -7,6 +7,8 @@ License & Usage
 ❌ Not free for commercial redistribution, resale, or company-wide production deployment
 💼 Commercial use and enterprise deployment require a paid license or support agreement
 
+👉 Book a Free 15-Minute Deployment Assessment
+
 If you'd like a production-ready deployment without spending hours configuring infrastructure, I offer a guided installation package.
 
 ## ResolveAI Starter Deployment — ₹4,999
