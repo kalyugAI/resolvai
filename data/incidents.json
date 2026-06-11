@@ -1,0 +1,12 @@
+[
+{
+"id":"INC-101",
+"incident":"Kubernetes pod crash loop",
+"resolution":"Increase memory limit and redeploy"
+},
+{
+"id":"INC-102",
+"incident":"Database connection timeout",
+"resolution":"Increase pool size"
+}
+]

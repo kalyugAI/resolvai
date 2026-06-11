@@ -1,0 +1,6 @@
+streamlit
+chromadb
+openai
+requests
+python-dotenv
+pysqlite3-binary

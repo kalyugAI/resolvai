@@ -1,0 +1,14 @@
+**Summary**
+The system is experiencing a Kubernetes pod in a `CrashLoopBackOff` state. This condition was preceded by high memory usage, leading to the container being terminated due to an Out Of Memory (OOMKilled) error. The pod then attempted to restart, but failed and entered a back-off state before ultimately settling into `CrashLoopBackOff`. This exact sequence of events matches a known historical incident.
+
+**Matched Incident IDs**
+KAN-2
+
+**Confidence**
+100%
+
+**Suggested Fix**
+Restart the POD.
+
+**References**
+KAN-2: Kubernetes pods entering CrashLoopBackOff after memory spike
