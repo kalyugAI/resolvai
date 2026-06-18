@@ -11,15 +11,14 @@ License & Usage
 
 If you'd like a production-ready deployment without spending hours configuring infrastructure, I offer a guided installation package.
 
-## ResolveAI Starter Deployment — ₹4,999
+## Book a Free Deployment Assessment
 
 Included:
 
 * 1-on-1 deployment session
-* Docker deployment assistance
 * Environment configuration
 * LLM/API integration guidance
-* Jira integration
+* Jira integration*
 * Basic troubleshooting
 * Source code handover
 
